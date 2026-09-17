@@ -7,6 +7,23 @@ format: revealjs
 
 -   Practice how to interact at coffee events
 
+## Purpose
+
+## **Situations**
+
+-   MC
+
+-   Careers Fair
+
+-   Coffee Chats / Informational Interviews
+
+## **Company research**
+
+1.  What does the company actually do?
+2.  What is happening in the company / industry right now (developments etc)
+3.  Why is this relevant to my degree
+4.  What questions might I ask an alumnus? Ones that relate to both me and them.
+
 ## Upcoming Events
 
 Career Fairs
@@ -62,15 +79,13 @@ Choose a company from the list
 
 ## What are you trying to achieve?
 
-asdf
-
 ## **The 15 second challenge**
 
-You approach someone from INSERT COMPANY.
+You approach a stall at a career fair, and they say:
 
-They say, *Hi, I'm Gregory, What brings you here?*
+*Hi, I'm Gregory, What brings you here?*
 
-You say
+You answer:
 
 -   Who I am
 
@@ -78,19 +93,23 @@ You say
 
 -   Why I'm talking to you
 
-## **Which is more interesting?** 
+## **Which is more interesting?**
 
 A. I'm doing a Masters in Business Analytics
 
 B. I'm doing a Masters in Business Analytics, but I am particularly interested in how AI is changing financial decision-making.
 
+# Keeping the conversation going
+
 ## **Conversation hooks**
 
-**“I've been working in Dublin for three years, but I'm originally from Brazil.”**
+**I've been working in Dublin for three years, but I'm originally from Brazil.**
 
 *How many things could you ask me about?*
 
 ## **Directing the conversation**
+
+*I've been working in Dublin for three years, but I'm originally from Brazil.*
 
 -   Dublin
 
@@ -106,12 +125,46 @@ B. I'm doing a Masters in Business Analytics, but I am particularly interested i
 
 -   future plans.
 
-## **The perfect CV / present**
+## **Reaction training**
+
+-   "I started here straight after my Masters."
+
+-   "I started in finance, but ended up in data analytics."
+
+-   "I never planned to work in this industry — it just happened through an internship."
+
+-   "Most of my work is with clients in Asia, so I often start work quite early."
+
+-   "The thing I like most about the job is that every project is completely different."
+
+-    "When I joined, I thought I'd be doing much more technical work than I actually do."
+
+## **Soft Exit**
+
+-   "It's been really nice talking to you."
+
+-   "Thanks — you've given me a lot to think about."
+
+-   "I don't want to keep you from everyone else."
+
+-   "Hopefully I'll see you again later."
+
+## **Exit & connect**
+
+-   "I don't want to keep you from everyone else."
+
+    -   But would it be okay if I connected with you on LinkedIn?”
+
+    -   Would you mind if I emailed you sometime to follow up on our conversation?
+
+    -   Could I send you something I'm working on that relates to what we were discussing?
+
+## **The perfect CV**
 
 ![](images/clipboard-387306894.png)
 
 ## **The perfect present**
 
--   Something the person wants but would not get for themselves
+-   Something the person wants but might not get for themselves
 
 -   Only you could have gotten it for them.
